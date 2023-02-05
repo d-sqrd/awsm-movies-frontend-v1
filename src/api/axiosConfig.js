@@ -8,5 +8,5 @@ import axios from 'axios';
 
 
 export default axios.create({
-    baseURL: 'http://awsmmovies-env.eba-xwb8zmby.ap-south-1.elasticbeanstalk.com/',
+    baseURL: 'https://awsmmovies-env.eba-xwb8zmby.ap-south-1.elasticbeanstalk.com/',
 });
